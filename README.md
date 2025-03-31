@@ -23,10 +23,8 @@
 ```
 .dotfiles/
 ├── .bash_aliases       # Aliases for quick command use
-├── .bashrc             # Shell configuration and sourcing aliases
-├── .ssh/               # SSH keys and config (should be Git-ignored)
 ├── .notes/             # Personal markdown notes
-└── setup.sh            # Optional system bootstrap script
+└── gitignore.sh
 ```
 
 ## Setup Instructions
